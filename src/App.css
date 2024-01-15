@@ -1,0 +1,66 @@
+*{
+  background-color: rgb(236, 249, 250);
+}
+.App {
+  text-align: right;
+  background-color: brown;
+  font-size: xx-large;
+}
+
+/* input{
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+} */
+
+
+button{
+  background-color: blue;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+
+  /* transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: 2%; */
+}
+
+button:hover{
+  background-color: rgb(254, 5, 5);
+}
+
+.btn1{
+  background-color: rgb(255, 0, 183);
+}
+
+.sen{
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+}
+
+div{
+  color: rgb(52, 70, 73);
+  /* font-size: 50px; */
+}
+
+span{
+  color:yellow;
+}
+
+.btn2{
+  background-color: yellow;
+}
+
+.font_size_4px{
+  font-size: 4px;
+}
+
+#but4{
+  background-color: blueviolet;
+}
